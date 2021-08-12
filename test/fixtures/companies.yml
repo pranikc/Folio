@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  board_members: MyText
+  year: 1
+  industry: MyString
+
+two:
+  name: MyString
+  board_members: MyText
+  year: 1
+  industry: MyString
